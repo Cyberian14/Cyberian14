@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bandung
 - 🌱 I’m currently learning STMIK MARDIRA INDONESIA
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me 
+- 📫 How to reach me, with contact celluler
 
 <!---
 Cyberian14/Cyberian14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
