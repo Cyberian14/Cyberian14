@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raz
+- 👋 Hi, I’m Razaach
 - 👀 I’m interested in Hardware and Network Engineering 
 - 🌱 I’m currently learning STMIK MARDIRA INDONESIA
 - 💞️ I’m looking to collaborate on google
